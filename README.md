@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://images.squarespace-cdn.com/content/v1/5664c2f3e4b0957c43aa14f4/1627261945738-FO5OXHZT2RLNBKAFC2LD/coding.gif?format=1500w
+![image](https://github.com/miri03/miri03/assets/93942328/9fe406b7-cde4-42bc-a471-ad06ee136ccb)
 
 <!--
 **miri03/miri03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
