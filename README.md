@@ -3,7 +3,7 @@
 <!--![] (https://media.tenor.com/jUYZCDO14sEAAAAC/chis-sweet-home-cat.gif)--->
 
 
-<div>
+<div align=center >
     <img src="https://media.tenor.com/jUYZCDO14sEAAAAC/chis-sweet-home-cat.gif" alt="challenge-yaself">
 </div>
 
